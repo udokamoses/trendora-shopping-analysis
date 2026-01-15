@@ -46,13 +46,13 @@ To ensure accuracy and consistency:
 - Total Number of Unique Customers: 3705
 
 ### Product Performance
-The Top Items Purchased analysis identifies products with the highest purchase frequency. In cases where multiple products have the same purchase count, ties were included to ensure transparency and accuracy.
+The Top Items Purchased analysis identifies products with the highest purchase frequency, with Pants as the highest sold product. In cases where multiple products have the same purchase count, ties were included to ensure transparency and accuracy.
 
 ### Customer Demographics & Behavior
-Purchase distribution by age group highlights which customer segments are most active. This insight helps Trendora understand its core customer base and tailor marketing strategies accordingly.
+Purchase distribution by age group highlights which customer segments are most active, where ages 60-70 made the highest purchases. This insight helps Trendora understand its core customer base and tailor marketing strategies accordingly.
 
 ### Seasonal & Payment Insights
-Seasonal analysis reveals periods of increased customer spending, while payment method breakdown shows customer preferences across available payment options.
+Seasonal analysis reveals periods of increased customer spending, while payment method breakdown shows customer preferences across available payment options. There was a record high sales during Fall. The highest payment method used is Debit Card.
 
 ## Recommendations
 Based on the analysis, the following actions are recommended:
